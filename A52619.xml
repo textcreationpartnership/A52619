@@ -1,0 +1,1274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular narrative of the burning in the port of Tripoli, four men of war, belonging to those corsairs by Sir John Narbrough, admiral of His Majesties fleet in the Mediterranean, on the 14th of January, 1675/6 ; together with an account of his taking afterwards five barks laden with corn, and of his farther action on that coast.</title>
+            <author>Narbrough, John, Sir, 1640-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52619</idno>
+            <idno type="STC">Wing N155</idno>
+            <idno type="STC">ESTC R8333</idno>
+            <idno type="EEBO-CITATION">12195926</idno>
+            <idno type="OCLC">ocm 12195926</idno>
+            <idno type="VID">55981</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52619)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55981)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular narrative of the burning in the port of Tripoli, four men of war, belonging to those corsairs by Sir John Narbrough, admiral of His Majesties fleet in the Mediterranean, on the 14th of January, 1675/6 ; together with an account of his taking afterwards five barks laden with corn, and of his farther action on that coast.</title>
+                  <author>Narbrough, John, Sir, 1640-1688.</author>
+               </titleStmt>
+               <extent>8 p., 1 folded plate : ill., map  </extent>
+               <publicationStmt>
+                  <publisher>In the Savoy, Printed by Tho. Newcomb,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Signed: John Narbrough.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tripoli (Libya) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55981:1"/>
+            <p>A PARTICULAR NARRATIVE OF THE BURNING In the Port of TRIPOLI, Four Men of War, Belonging to thoſe CORSAIRS, By Sir <hi>JOHN NARBRO<g ref="char:V">Ʋ</g>GH,</hi> Admiral of His Majeſties Fleet in the Mediterranean, On the <hi>14th</hi> of <hi>January,</hi> 1675/6.</p>
+            <p>TOGETHER With an Account of his Taking afterwards FIVE BARKS Laden with CORN, And of his farther Action on that Coaſt.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>
+               <hi>In the SAVOY, Printed by</hi> Tho: Newcomb. 1676.</p>
+         </div>
+         <div type="map">
+            <pb facs="tcp:55981:2"/>
+            <pb facs="tcp:55981:2"/>
+            <p>
+               <figure>
+                  <figDesc>map of Tripoli</figDesc>
+                  <head>TRIPOLI IN BARBARY,</head>
+                  <p>
+                     <list>
+                        <item>
+                           <hi>1</hi> The Engliſh Ships,</item>
+                        <item>
+                           <hi>2</hi> Entrance into the Port,</item>
+                        <item>
+                           <hi>3</hi> The Enemies Guard-Boat</item>
+                        <item>
+                           <hi>4</hi> English Boats burning the <hi>4</hi> Tripoli Men of Warr,</item>
+                        <item>
+                           <hi>5</hi> The Deyas Castle,</item>
+                        <item>
+                           <hi>6</hi> Baba Maſhees Fort,</item>
+                        <item>
+                           <hi>7</hi> Skinners Fort,</item>
+                        <item>
+                           <hi>8</hi> The Maribatt Fort,</item>
+                        <item>
+                           <hi>9</hi> Babaluke Fort,</item>
+                        <item>
+                           <hi>10</hi> The west Battery,</item>
+                        <item>
+                           <hi>11</hi> The Sheriffs Castle,</item>
+                        <item>
+                           <hi>12</hi> Braggots Castle,</item>
+                        <item>
+                           <hi>13</hi> Marine Gate,</item>
+                        <item>
+                           <hi>14</hi> Land Gate,</item>
+                        <item>
+                           <hi>15</hi> The Sheriffs Church,</item>
+                        <item>
+                           <hi>16</hi> Dargotts Church,</item>
+                        <item>
+                           <hi>17</hi> Salems Church, which is a marke to beare into the Port,</item>
+                        <item>
+                           <hi>18</hi> La bella Gv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>arda,</item>
+                        <item>
+                           <hi>19</hi> The Mandrake Fort,</item>
+                        <item>
+                           <hi>20</hi> The place of y<hi rend="sup">e</hi> Marine,</item>
+                        <item>
+                           <hi>21</hi> The Scale of y<hi rend="sup">e</hi> marine,</item>
+                        <item>
+                           <hi>22</hi> a Merchant Man of Tunis,</item>
+                        <item>
+                           <hi>23</hi> The Rocks encloſing the Port,</item>
+                        <item>
+                           <hi>24</hi> The Turks, firing from the Shore vpon the Eng<g ref="char:EOLhyphen"/>liſh Boats,</item>
+                     </list>
+                  </p>
+                  <p>The Port.</p>
+                  <p>PART OF THE MEDITTER<g ref="char:EOLhyphen"/>RANEAN SEA</p>
+                  <byline>W. Hollar fecit, 1676,</byline>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="report">
+               <pb n="3" facs="tcp:55981:3"/>
+               <head>A PARTICULAR NARRATIVE Of the Burning in the Port of Tripoli, Four Men of War, belonging to thoſe <hi>Corſairs,</hi> By Sir <hi>John Narbrough,</hi> Admiral of His Majeſties Fleet in the Mediterranean, <hi>&amp;c.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">F</seg>Riday, the <hi>14th</hi> of <hi>January,</hi> 1675/6. I being before <hi>Tripoli</hi> in <hi>Barbary,</hi> with His Majeſties Ships under my Command, namely theſe, <hi>Harwich, Henrietta, Portſmouth,</hi> the <hi>Anne, Chriſtopher</hi> and <hi>Holmes</hi> Fireſhips, and two Merchant Ships, <hi>Guiney</hi> and <hi>Martin,</hi> attending on me for Convoy to <hi>Scan<g ref="char:EOLhyphen"/>deroone.</hi>
+               </p>
+               <p>I hoped to have made an honorable and laſting Peace; but the Dey, and Government of <hi>Tripoli</hi> refuſing to make reſtitution for the Injuries done to His Majeſty, and His Subjects; I ſeeing four of the <hi>Tripoli</hi> Ships of War of conſiderable force in the Port of <hi>Tripoli,</hi> preparing to go out to Cruiſe, I then having the Fireſhips with me to ſupply me with Fire-works, I fitted a Fire-boat accordingly out of them; Commanding that all the Boats of my Squadron, being 12 in number, ſhould be mann'd, arm'd, and fitted with Fire-works: Alſo I ordered a conſiderable Officer to be Commander in every Boat, and my Lieutenant <hi>Cloudiſley Shouell</hi> to be Commander in chief of them all, I being reſolved, by God's permiſſion, that Night to attack the Enemies Ships in their Port, gave directions requiſite for ſuch a deſign. About 12 of the Clock in the Night, my Boats reſolvedly entred the Port, ſeized the Guard-Boat, boarded the Ships, fired them, and utterly deſtroyed them all; ſome <hi>Turks</hi> and <hi>Moors</hi> ſlain, the reſt fled to ſave themſelves. Theſe four Ships lay under the Deys Caſtle walls, which was all that were in the Port, excepting a <hi>Tunis</hi> Merchant Ship, which I ordered ſhould not be med<g ref="char:EOLhyphen"/>led with, ſo eſcaped firing. This Action was performed in leſs than an hours time, without ſuſtaining the leaſt damage on our part, more than the ex<g ref="char:EOLhyphen"/>pence of ſome Ammunition, Fire-works, and Fire-boat, which effectually were beſtowed as deſigned, to the great aſtoniſhment of the <hi>Turks</hi> that en<g ref="char:EOLhyphen"/>deavored to impede our deſign, by plying ſeveral great and innumerable ſmall ſhot at our Boats and Men, which were within Piſtol-ſhot of the Deys own Caſtle and Palace. Such was the wonderful mercy of Almighty God towards us, That not one Man of ours was killed, wounded, or touched, nor a Boat any wayes diſabled, but all returned in ſafety, bringing the Guard-boat, two <hi>Moors,</hi> and the <hi>Turkiſh</hi> Colours of the four Ships in tri<g ref="char:EOLhyphen"/>umph along with them to my Ship. Our Men employed in the Boats in this particular Action, were 157, they all behaving themſelves as becometh Engliſhmen. And for a preſent Reward of their good Service, I cauſed the next day 1956 pieces of Eight to be diſtributed among them, as will appear by the following Liſt.</p>
+               <div type="list">
+                  <pb n="4" facs="tcp:55981:4"/>
+                  <head>A Liſt of the Perſons Names that were in the Boats in this Action; together with the Names of the Ships they belonged unto, and their Number on the Sea-Book againſt each Man, with an account of the Pieces of Eight, paid every individual Perſon.</head>
+                  <p>
+                     <table>
+                        <row role="label">
+                           <cell>Number on the Ships Sea-book.</cell>
+                           <cell>Mens Names that went in the <hi>Harwich</hi>'s Pinnace, in the aboveſaid Action.</cell>
+                           <cell>Number of pieces of Eight paid to each perſon.</cell>
+                        </row>
+                        <row>
+                           <cell>438</cell>
+                           <cell>
+                              <hi>Cloudiſly Shouell</hi> Lieutenant of the <hi>Harwich,</hi> Commander in Chief, of all the Boats in the deſign</cell>
+                           <cell>80</cell>
+                        </row>
+                        <row>
+                           <cell>439</cell>
+                           <cell>
+                              <hi>James Greeves</hi> Maſters Mate, Lieutenants Aſſiſtant</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>445</cell>
+                           <cell>
+                              <hi>James Major</hi> Midſhipman</cell>
+                           <cell>14</cell>
+                        </row>
+                        <row>
+                           <cell>492</cell>
+                           <cell>
+                              <hi>William Drummond</hi> Quartermaſter</cell>
+                           <cell>14</cell>
+                        </row>
+                        <row>
+                           <cell>452</cell>
+                           <cell>
+                              <hi>Robert Manſer</hi> Quartermaſter</cell>
+                           <cell>14</cell>
+                        </row>
+                        <row>
+                           <cell>444</cell>
+                           <cell>
+                              <hi>Thomas Langford</hi> Midſhipman</cell>
+                           <cell>14</cell>
+                        </row>
+                        <row>
+                           <cell>502</cell>
+                           <cell>
+                              <hi>Joſeph Follett</hi> Able Seaman</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>504</cell>
+                           <cell>
+                              <hi>Daniel Bottom</hi> Able Seaman</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>503</cell>
+                           <cell>
+                              <hi>Francis Paine</hi> Able Seaman</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>505</cell>
+                           <cell>
+                              <hi>Henry Peirceſon</hi> Able Seaman</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>506</cell>
+                           <cell>
+                              <hi>Edward Charke</hi> Able Seaman</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>499</cell>
+                           <cell>
+                              <hi>Nathaniel Coolen</hi> Able Seaman</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>494</cell>
+                           <cell>
+                              <hi>James Tayler</hi> Able Seaman</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>500</cell>
+                           <cell>
+                              <hi>Thomas Futner</hi> Able Seaman</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>493</cell>
+                           <cell>
+                              <hi>Robert Church</hi> Able Seaman</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row>
+                           <cell>488</cell>
+                           <cell>
+                              <hi>John Edwards</hi> Able Seaman</cell>
+                           <cell>12</cell>
+                        </row>
+                        <row role="label">
+                           <cell> </cell>
+                           <cell>
+                              <hi>Harwich</hi>'s Long-boat.</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>450</cell>
+                           <cell>Captain <hi>Thomas Berry</hi> Commander of the Boat</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>495</cell>
+                           <cell>
+                              <hi>Henry Glaſſon</hi> Boatſwains Aſſiſtant</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>496</cell>
+                           <cell>
+                              <hi>John Walton</hi> Boatſwains Mate</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>214</cell>
+                           <cell>
+                              <hi>Frechevill Ramſden</hi> Gent. Volunteer</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>483</cell>
+                           <cell>
+                              <hi>Silvanus Davis</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>196</cell>
+                           <cell>
+                              <hi>John Walters</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>490</cell>
+                           <cell>
+                              <hi>John Whiteing</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>498</cell>
+                           <cell>
+                              <hi>George Godfry</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>66</cell>
+                           <cell>
+                              <hi>Richard Clements</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>484</cell>
+                           <cell>
+                              <hi>Anthony Bird</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>387</cell>
+                           <cell>
+                              <hi>Thomas Marrow</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>429</cell>
+                           <cell>
+                              <hi>Robert Smith</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>465</cell>
+                           <cell>
+                              <hi>Robert Berry</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>203</cell>
+                           <cell>
+                              <hi>Samuel Higgins</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>229</cell>
+                           <cell>
+                              <hi>Richard Harvy</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>222</cell>
+                           <cell>
+                              <hi>William Mills</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>454</cell>
+                           <cell>
+                              <hi>Francis Browne</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>314</cell>
+                           <cell>
+                              <hi>Thomas Ladd</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>337</cell>
+                           <cell>
+                              <hi>John Engliſh</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>436</cell>
+                           <cell>
+                              <hi>Thomas Salvin</hi> Soldier</cell>
+                           <cell>10</cell>
+                        </row>
+                        <pb n="5" facs="tcp:55981:4"/>
+                        <row role="label">
+                           <cell>Number on the Ships Sea-book.</cell>
+                           <cell>
+                              <hi>Harwich</hi>'s Yawi made a Fire-boat.</cell>
+                           <cell>Number of pieces of Eight paid to each perſon.</cell>
+                        </row>
+                        <row>
+                           <cell>468</cell>
+                           <cell>
+                              <hi>Richard Borthwick</hi> Maſter, Commiſſioner of the Boat</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>451</cell>
+                           <cell>
+                              <hi>John Cable</hi> Quartermaſters</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>507</cell>
+                           <cell>
+                              <hi>Thomas Bollard</hi> Quartermaſters</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>940</cell>
+                           <cell>
+                              <hi>William Corny</hi> Midſhipman. N<hi rend="sup">o</hi>. in the <hi>Henrietta</hi>'s Sea-book</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row role="label">
+                           <cell> </cell>
+                           <cell>
+                              <hi>Guiny</hi>'s Merchant Pinnace, Mann'd out of the <hi>Harwich.</hi>
+                           </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>104</cell>
+                           <cell>Lieutenant <hi>Thomas Hobſon</hi> Commander of the Boat</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>250</cell>
+                           <cell>
+                              <hi>Frederick Cornwallis</hi> Gent. Volunteer</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>455</cell>
+                           <cell>
+                              <hi>Charles Carleil</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>216</cell>
+                           <cell>
+                              <hi>George Gibbs</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>479</cell>
+                           <cell>
+                              <hi>John Dickeſon</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>352</cell>
+                           <cell>
+                              <hi>John Baker</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>403</cell>
+                           <cell>
+                              <hi>Thomas Glendall</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>103</cell>
+                           <cell>
+                              <hi>Thomas Peckett</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>47</cell>
+                           <cell>
+                              <hi>Richard Ball</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>59</cell>
+                           <cell>
+                              <hi>John Handbury</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row role="label">
+                           <cell> </cell>
+                           <cell>
+                              <hi>Anne</hi> and <hi>Chriſtopher</hi> Fireſh. Long-boat.</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>207</cell>
+                           <cell>Lieutenant <hi>John Bounty</hi> Commander of the Boat</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>210</cell>
+                           <cell>
+                              <hi>James Bouzier</hi> Gent.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>200</cell>
+                           <cell>
+                              <hi>Morris Haugherne</hi> Corporal</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>124</cell>
+                           <cell>
+                              <hi>Francis Duke</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>44</cell>
+                           <cell>
+                              <hi>William Barton</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>75</cell>
+                           <cell>
+                              <hi>Peter Gregory</hi> Seaman, N<hi rend="sup">o</hi>. <hi>in the</hi> Anne <hi>and</hi> Chriſtopher <hi>Fireſh. Sea-book</hi>
+                           </cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>315</cell>
+                           <cell>
+                              <hi>Robert Barnett</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>237</cell>
+                           <cell>
+                              <hi>Robert Cockerell</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>229</cell>
+                           <cell>
+                              <hi>William Staterne</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>354</cell>
+                           <cell>
+                              <hi>John Dick</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>317</cell>
+                           <cell>
+                              <hi>John Cornelinſon</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>71</cell>
+                           <cell>
+                              <hi>Chriſtoph. Hilliard</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>369</cell>
+                           <cell>
+                              <hi>Beant Miah</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>73</cell>
+                           <cell>
+                              <hi>Henry Pepell</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row role="label">
+                           <cell> </cell>
+                           <cell>
+                              <hi>Martin</hi> Merchant.</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>442</cell>
+                           <cell>
+                              <hi>Robert Best</hi> Midſhipman, Commander of the Boat</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>476</cell>
+                           <cell>
+                              <hi>James Odwin</hi> Reformado</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>457</cell>
+                           <cell>
+                              <hi>Jacob Barber</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>57</cell>
+                           <cell>
+                              <hi>Robert Laſh</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>482</cell>
+                           <cell>
+                              <hi>Thomas Matthews</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>357</cell>
+                           <cell>
+                              <hi>Willam Aldgate</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>343</cell>
+                           <cell>
+                              <hi>Francis Wetherby</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>360</cell>
+                           <cell>
+                              <hi>John White</hi> Able Seaman</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell role="total">448</cell>
+                        </row>
+                        <pb n="6" facs="tcp:55981:5"/>
+                        <row role="label">
+                           <cell>Number on the Ships Sea-Book.</cell>
+                           <cell>
+                              <hi>Henrietta</hi>'s Pinnace.</cell>
+                           <cell>Number of Pieces of Eight paid unto each Perſon.</cell>
+                        </row>
+                        <row>
+                           <cell>1262</cell>
+                           <cell>
+                              <hi>William Rigby,</hi> Lieutenant, Commander of the Boat.</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>1286</cell>
+                           <cell>
+                              <hi>John Gore,</hi> Gent. Volunteer.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1268</cell>
+                           <cell>
+                              <hi>Joſeph Robinſon,</hi> Coxſwain.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1301</cell>
+                           <cell>
+                              <hi>Robert Earl</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1302</cell>
+                           <cell>
+                              <hi>Edward Darby</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1299</cell>
+                           <cell>
+                              <hi>James Headly</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1300</cell>
+                           <cell>
+                              <hi>Humph. Rand</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1303</cell>
+                           <cell>
+                              <hi>Stephen Banck</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1305</cell>
+                           <cell>
+                              <hi>Enoch Fooke</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1307</cell>
+                           <cell>
+                              <hi>John Watſon</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1308</cell>
+                           <cell>
+                              <hi>James Hill</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>174</cell>
+                           <cell>
+                              <hi>Nehemiah Standen,</hi> Midſhip-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>35</cell>
+                           <cell>
+                              <hi>Thomas Durburne,</hi> Steward.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1306</cell>
+                           <cell>
+                              <hi>Matthew Connoway.</hi>
+                           </cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>
+                              <hi>William Warren.</hi>
+                           </cell>
+                           <cell>10</cell>
+                        </row>
+                        <row role="label">
+                           <cell> </cell>
+                           <cell>
+                              <hi>Henrietta</hi>'s Long-Boat.</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>1267</cell>
+                           <cell>
+                              <hi>John Porter,</hi> Maſters Mate, Commander of the Boat.</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>1278</cell>
+                           <cell>
+                              <hi>Nicholas Carlton</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1313</cell>
+                           <cell>
+                              <hi>James Faulkner</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>194</cell>
+                           <cell>
+                              <hi>William Selby</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1178</cell>
+                           <cell>
+                              <hi>Thomas Kenniday</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1251</cell>
+                           <cell>
+                              <hi>John Shaw</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>212</cell>
+                           <cell>
+                              <hi>Benjamin Floyd</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1161</cell>
+                           <cell>
+                              <hi>Robert Forreſt</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1138</cell>
+                           <cell>
+                              <hi>John Thomas</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1314</cell>
+                           <cell>
+                              <hi>Hugh Denniſon</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1312</cell>
+                           <cell>
+                              <hi>Stephen Garey</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1285</cell>
+                           <cell>
+                              <hi>Thomas Montague</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1279</cell>
+                           <cell>
+                              <hi>William Eades</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1274</cell>
+                           <cell>
+                              <hi>Vincent Webſter</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1282</cell>
+                           <cell>
+                              <hi>Robert Clough</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>1258</cell>
+                           <cell>
+                              <hi>William Wheeden</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>193</cell>
+                           <cell>
+                              <hi>Richard Grimes</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>429</cell>
+                           <cell>
+                              <hi>Henry Hind</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>424</cell>
+                           <cell>
+                              <hi>Henry Parſley</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>477</cell>
+                           <cell>
+                              <hi>John Hiller</hi> Number on the <hi>Harwich</hi>'s Sea-Book</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row role="label">
+                           <cell>Number on the Ships Sea-Book.</cell>
+                           <cell>
+                              <hi>Portſmouth</hi> Pinnace.</cell>
+                           <cell>Number of Pieces of Eight paid to each Sea-man.</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>
+                              <hi>Thomas Loyd</hi> Lieutenant, Commander of the Boat.</cell>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell>235</cell>
+                           <cell>
+                              <hi>Captain Lhoiſtenn</hi> Gent. Reformado.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>228</cell>
+                           <cell>
+                              <hi>Captain Mackdaniel</hi> Gent. Reformado.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>205</cell>
+                           <cell>
+                              <hi>Thomas Layton,</hi> Doctor.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>11</cell>
+                           <cell>
+                              <hi>John Batt,</hi> Coxſwain.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>230</cell>
+                           <cell>
+                              <hi>Edward Revet</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>190</cell>
+                           <cell>
+                              <hi>Owen Dickeſon</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>141</cell>
+                           <cell>
+                              <hi>Samuel Arrowſmith</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>158</cell>
+                           <cell>
+                              <hi>Richard Clevil</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>37</cell>
+                           <cell>
+                              <hi>Chriſtopher Hayes</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell role="total">532</cell>
+                        </row>
+                        <pb n="7" facs="tcp:55981:5"/>
+                        <row>
+                           <cell>116</cell>
+                           <cell>
+                              <hi>Benjamin Lee</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>217</cell>
+                           <cell>
+                              <hi>Joſeph Elmes</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>85</cell>
+                           <cell>
+                              <hi>Edward Taylor</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>229</cell>
+                           <cell>
+                              <hi>John Stukeley</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row role="label">
+                           <cell> </cell>
+                           <cell>
+                              <hi>Portſmouth</hi> Long-Boat</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>84</cell>
+                           <cell>
+                              <hi>Alexander Smart</hi> Midſhip-man, Commander of the Boat.</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>206</cell>
+                           <cell>
+                              <hi>Thomas Lunsfoord</hi> Gent. Reformado.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>213</cell>
+                           <cell>
+                              <hi>Thomas Yeates</hi> Doctor.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>53</cell>
+                           <cell>
+                              <hi>William Framingham,</hi> Boatſwains Yeom.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>208</cell>
+                           <cell>
+                              <hi>William Foord</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>216</cell>
+                           <cell>
+                              <hi>Roger Burges</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>33</cell>
+                           <cell>
+                              <hi>Thomas Fletcher</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>83</cell>
+                           <cell>
+                              <hi>Francis Preddick</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>64</cell>
+                           <cell>
+                              <hi>Chriſtopher Evans</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>204</cell>
+                           <cell>
+                              <hi>Timothy Belton</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>191</cell>
+                           <cell>
+                              <hi>John Huttſon</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>227</cell>
+                           <cell>
+                              <hi>Roger Teague</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>68</cell>
+                           <cell>
+                              <hi>John Hodder</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>109</cell>
+                           <cell>
+                              <hi>Walter Willifoord</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>210</cell>
+                           <cell>
+                              <hi>Edward Helland</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row role="label">
+                           <cell> </cell>
+                           <cell>
+                              <hi>Anne</hi> and <hi>Chriſtopher</hi> Fire-ſh. Pinnace.</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>78</cell>
+                           <cell>
+                              <hi>Edmund Barret,</hi> Maſters Mate, Commander of the Boat.</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>65</cell>
+                           <cell>
+                              <hi>Robert Jeffrey,</hi> Coxſwain,</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>29</cell>
+                           <cell>
+                              <hi>Jeffrey Norton</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>66</cell>
+                           <cell>
+                              <hi>Francis Perry</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>52</cell>
+                           <cell>
+                              <hi>Edward Wood</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>32</cell>
+                           <cell>
+                              <hi>Richard Harwood</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>63</cell>
+                           <cell>
+                              <hi>Jàmes Paul</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>77</cell>
+                           <cell>
+                              <hi>William Moore</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>70</cell>
+                           <cell>
+                              <hi>John Wheeden</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>61</cell>
+                           <cell>
+                              <hi>Francis Emmerſon</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row role="label">
+                           <cell> </cell>
+                           <cell>
+                              <hi>Holms</hi> Fire-ſhip Pinnace.</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>29</cell>
+                           <cell>
+                              <hi>John Penroy</hi> Maſter, Commander of the Boat.</cell>
+                           <cell>32</cell>
+                        </row>
+                        <row>
+                           <cell>35</cell>
+                           <cell>
+                              <hi>William Fleet,</hi> Maſter's Mate.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>23</cell>
+                           <cell>
+                              <hi>Thomas Davies,</hi> Gunner's Mate.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>16</cell>
+                           <cell>
+                              <hi>John Comfort,</hi> Carpenter's Mate.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>28</cell>
+                           <cell>
+                              <hi>John Oliver</hi> Boatſwain's Mate.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>39</cell>
+                           <cell>
+                              <hi>John Iſaac</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>30</cell>
+                           <cell>
+                              <hi>Stephen Cheſſun</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>22</cell>
+                           <cell>
+                              <hi>John Beck foord</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>26</cell>
+                           <cell>
+                              <hi>Thomas Webber</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>27</cell>
+                           <cell>
+                              <hi>Charls Edwards</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>42</cell>
+                           <cell>
+                              <hi>Edward Fiſhlock</hi> Able Sea-man.</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell>Sum total</cell>
+                           <cell role="total">1956</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="list">
+                  <pb n="8" facs="tcp:55981:6"/>
+                  <head>Names of the <hi>Tripoly</hi> Ships of War that were Burnt, with their Guns.</head>
+                  <list>
+                     <item>
+                        <hi>White Crown'd Eagle</hi> 50 Guns.</item>
+                     <item>
+                        <hi>Looking-Glaſs</hi> 34 Guns.</item>
+                     <item>
+                        <hi>Sancta Chiara</hi> 24 Guns.</item>
+                     <item>
+                        <hi>French Petach</hi> 20 Guns.</item>
+                  </list>
+                  <p>
+                     <hi>Guard-boat brought off with one Pedreroe, and two Moors in her.</hi>
+                  </p>
+               </div>
+               <closer>
+                  <dateline>From on Board His Majeſties Ship <hi>Harwich,</hi> at <hi>Maltha,</hi> 
+                     <date>Febr. 18. 1675/6.</date>
+                  </dateline>
+                  <signed>John Narbrough.</signed>
+               </closer>
+            </div>
+            <div type="report">
+               <p>The <hi>26th</hi> of <hi>January,</hi> I fired about One hundred ſhot into the City of <hi>Tripoli</hi> amongſt the Inhabitants; the firſt and third of <hi>February</hi> I took and deſtroyed five Corn-boats, on the Coaſt, to the Eaſtward of <hi>Tripoli</hi> twenty Leagues, and Landed, and Burned a Stack of Wood and Timber, which was for Building their new Ships, and ſome ſmall Maſts and Yards, and ſome Bags of Bread brought off, and two Guns ſpiked up, which could not be got off, it beginning to blow, and likely to be bad weather, ſo I was conſtrained to leave them, and to repair on Board, and leave the Coaſt. The <hi>10th</hi> inſtant, the <hi>Portſmouth</hi> took a Samberkeene in her Ballaſt, 30 Leagues to the Eaſtward of <hi>Tripoli,</hi> ſhe belonging to that Government; the <hi>Moors</hi> got all on ſhore, the Samberkeene ſhe brought unto <hi>Maltha.</hi>
+               </p>
+               <closer>
+                  <signed>John Narbrough.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
